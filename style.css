@@ -12,8 +12,15 @@ body{
 }
 .next{
     border: solid;
-    height: 32rem;
+    height: 34rem;
     width: 19rem;
     border-radius: 1rem;
+    margin: 0.5rem;
     
+}
+.submit{
+    text-align: center;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 0.8rem;
 }
