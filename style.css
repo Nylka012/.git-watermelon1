@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.watermelon{
+    width: 18rem;
+    height: 13rem;
+    border-radius: 0.8rem;
+    padding: 0.5rem;
+}
+.next{
+    border: solid;
+    height: 32rem;
+    width: 19rem;
+    border-radius: 1rem;
+    
+}
